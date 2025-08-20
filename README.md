@@ -7,7 +7,7 @@
 <img align='right' alt='coding' width='400' src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"
 
 
- 🔭 I’m currently working on [Rohedge](https://github.com/Christoph5418/rohedge)
+ 🔭 I’m currently working on MedRival
 
  🌱 I’m currently learning **React Native**
 
